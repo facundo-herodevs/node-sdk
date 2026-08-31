@@ -40,7 +40,7 @@
     "lodash": "^4.17.5"
   },
   "devDependencies": {
-    "angular": "1.8.3",
+    "angular": "npm:@neverendingsupport/angularjs@1.9.6",
     "ava": "^4.0.1",
     "cross-env": "^7.0.3",
     "eslint": "^8.57.0",
