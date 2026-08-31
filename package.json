@@ -53,6 +53,6 @@
     "semantic-release": "^19.0.2",
     "sinon": "^15.0.3",
     "uuid": "npm:@neverendingsupport/uuid@8.3.2-uuid-8.3.4",
-    "express": "3.21.2"
+    "express": "npm:@neverendingsupport/express@3.21.2-express-3.21.4"
   }
 }
