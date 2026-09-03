@@ -52,6 +52,6 @@
     "selenium-webdriver": "^4.1.1",
     "semantic-release": "^19.0.2",
     "sinon": "^15.0.3",
-    "uuid": "^8.3.2"
+    "uuid": "npm:@neverendingsupport/uuid@8.3.2-uuid-8.3.4"
   }
 }
